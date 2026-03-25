@@ -1,0 +1,5 @@
+{
+  "name": "SaúdeMapa Salvador",
+  "description": "Mapa interativo das unidades de saúde de Salvador, Bahia.",
+  "requestFramePermissions": ["geolocation"]
+}
